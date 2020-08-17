@@ -1,5 +1,9 @@
 # Activities Findable Module #FAIR101 
 
+## Connect
+Join the FAIR Data 101 Slack workspace and sign up for a Community Discussion
+slot (using the link emailed to you) if you have not yet had the opportunity to do so.
+
 ## Read
 Read the article where it all began: the FAIR Guiding Principles were first 
 codified in [The FAIR Guiding Principles for scientific data management and 
