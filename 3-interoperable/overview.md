@@ -12,9 +12,9 @@ Interoperable describes data that can be understood by machines and connected to
 
 Watch these videos for an introduction to the Interoperable guiding principles.
 
-[![FAIR Data 101 webinar 5](https://img.youtube.com/vi/R2lL5z8Q5_c/0.jpg)](https://www.youtube.com/watch?v=R2lL5z8Q5_c)
+[![FAIR Data 101 webinar 5](https://img.youtube.com/vi/pnJ-wSlwTkk/0.jpg)](https://www.youtube.com/watch?v=pnJ-wSlwTkk)
 
-[![FAIR Data 101 webinar 6](https://img.youtube.com/vi/vSRXLMcFkQA/0.jpg)](https://www.youtube.com/watch?v=vSRXLMcFkQA)
+[![FAIR Data 101 webinar 6](https://img.youtube.com/vi/aUxH9O4CAWQA/0.jpg)](https://www.youtube.com/watch?v=aUxH9O4CAWQ)
 
 ## Activities
 

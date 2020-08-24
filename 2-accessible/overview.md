@@ -15,9 +15,9 @@ should be a way for others to apply for access. Furthermore, if data are no long
 
 Watch these videos for an introduction to the Accessible guiding principles.
 
-[![FAIR Data 101 webinar 3](https://img.youtube.com/vi/R2lL5z8Q5_c/0.jpg)](https://www.youtube.com/watch?v=R2lL5z8Q5_c)
+[![FAIR Data 101 webinar 3](https://img.youtube.com/vi/TZzHAc6rhKI/0.jpg)](https://www.youtube.com/watch?v=TZzHAc6rhKI)
 
-[![FAIR Data 101 webinar 4](https://img.youtube.com/vi/vSRXLMcFkQA/0.jpg)](https://www.youtube.com/watch?v=vSRXLMcFkQA)
+[![FAIR Data 101 webinar 4](https://img.youtube.com/vi/k10pIbkpsNA/0.jpg)](https://www.youtube.com/watch?v=k10pIbkpsNA)
 
 ## Activities
 

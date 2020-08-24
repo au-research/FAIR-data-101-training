@@ -14,9 +14,9 @@ Reusable describes data that can be used again, beyond its original purpose. To 
 
 Watch these videos for an introduction to the Reusable guiding principles.
 
-[![FAIR Data 101 webinar 7](https://img.youtube.com/vi/R2lL5z8Q5_c/0.jpg)](https://www.youtube.com/watch?v=R2lL5z8Q5_c)
+[![FAIR Data 101 webinar 7](https://img.youtube.com/vi/wFGdzvGuRZ4/0.jpg)](https://www.youtube.com/watch?v=wFGdzvGuRZ4)
 
-[![FAIR Data 101 webinar 8](https://img.youtube.com/vi/vSRXLMcFkQA/0.jpg)](https://www.youtube.com/watch?v=vSRXLMcFkQA)
+[![FAIR Data 101 webinar 8](https://img.youtube.com/vi/rNDFw1fdXTA/0.jpg)](https://www.youtube.com/watch?v=rNDFw1fdXTA)
 
 ## Activities
 
