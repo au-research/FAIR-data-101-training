@@ -15,9 +15,9 @@ and contains a globally unique and persistant identifier that can be used to dis
 
 Watch these videos for an introduction to the Findable guiding principles.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R2lL5z8Q5_c/0.jpg)](https://www.youtube.com/watch?v=R2lL5z8Q5_c)
+[![FAIR Data 101 webinar 1](https://img.youtube.com/vi/R2lL5z8Q5_c/0.jpg)](https://www.youtube.com/watch?v=R2lL5z8Q5_c)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vSRXLMcFkQA/0.jpg)](https://www.youtube.com/watch?v=vSRXLMcFkQA)
+[![FAIR Data 101 webinar 2](https://img.youtube.com/vi/vSRXLMcFkQA/0.jpg)](https://www.youtube.com/watch?v=vSRXLMcFkQA)
 
 ## Activities
 
