@@ -84,6 +84,4 @@ The source material is available in Markdown format from the [ARDC github reposi
 Have you adapted FAIR Data 101 for your institution? [Let us
 know](mailto:contact@ardc.org.au) so we can feature your program here.
 
-If you reuse these materials, we ask that you provide the following attribution in the form of a citation:
 
-Liffers, Matthias, Stokes, Liz, Burton, Nichola, Kelly, Andrew, Honeyman, Tom, Brownlee, Rowan, … Brady, Catherine. (2020). 23 (research data) Things. Zenodo. http://doi.org/10.5281/zenodo.3955523
