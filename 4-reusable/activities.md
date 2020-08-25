@@ -1,4 +1,4 @@
-# Activities Reusable Module #FAIR101 
+# Reusable Activities
 
 ## Read
 Time estimate: 20 minutes
