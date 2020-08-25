@@ -25,7 +25,7 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 - [ ] Data Documentation Initiative Codebook (DDI-C)
 - [x] Network Common Data Format (netCDF)
 
-### 4. Why was the Mars Climate Orbiter lost? Select all that apply.
+### 4. Why was the [Mars Climate Orbiter](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter) lost? Select all that apply.
 
 - [x] Two control components were not interoperable
 - [x] Programmers made assumptions about units of measurement
@@ -62,7 +62,7 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 - [x] Mapping data to common standards makes it easier to share across disciplines
 - [x] Research data is more readily available for reuse
 
-### 9. In what ways does the Registry Interchange Format: Collections and Services reflect FAIR data principles? Select all that apply.
+### 9. In what ways does the [Registry Interchange Format: Collections and Services](https://documentation.ardc.edu.au/display/DOC/About+RIF-CS) reflect FAIR data principles? Select all that apply.
 
 - [x] It is based on an ISO standard
 - [x] The metadata includes qualified references to other metadata schemas
