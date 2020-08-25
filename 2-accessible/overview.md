@@ -29,7 +29,7 @@ Work through these [activities](activities.md) to build your understanding of Fi
 
 ## Community discussion
 
-Use these questions when running a [community-discussion](course-resources/community-discussion-factsheet.md).
+Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
 
 **Topic questions**
 * What is the value of the FAIR principles making specific mention of protocols and the mechanics of facilitating access to data?
