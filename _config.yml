@@ -43,6 +43,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - 1-findable/quiz.md
+  - 2-accessible/quiz.md
+  - 3-interoperable/quiz.md
+  - 4-reusable/quiz.md    
 #   - gemfiles/
 #   - node_modules/
 #   - vendor/bundle/
