@@ -3,12 +3,15 @@
 This repository most of the material developed for the Australian Research Data Commons' FAIR Data 101 course,
 originally run from 11 May to 26 June 2020.
 
+The first run was the debut of the [ARDC's Course Code of Conduct](https://tiny.cc/code-conduct), inspired
+by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+
 The course is divided into four modules, one for each of the four FAIR foundational principles: [Findable](/1-findable),
 [Accessible](/2-accessible), [Interoperable](/3-interoperable), [Reusable](/4-reusable)
 
 During the original run, each module took two weeks and consisted of:
 * Two webinars
-* A number of small group discussions
+* A number of small group [community discussions](course-resources/community-discussion-factsheet.md)
 * Activities
 * A quiz
 
@@ -19,7 +22,7 @@ Interoperable and Reusable.
 
 In the first week of each module participants watched 
 two 45-minute live webinars, and in the second week they took part in a 
-community discussion session (up to 16 participants per discussion group). 
+[community discussion sessions](course-resources/community-discussion-factsheet.md) (up to 16 participants per discussion group). 
 
 During each module participants also completed a set of activities and a quiz in their own time. 
 The course was supported by a Slack channel, which allowed participants to ask questions to one 
