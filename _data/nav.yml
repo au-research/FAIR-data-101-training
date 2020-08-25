@@ -1,0 +1,14 @@
+docs_list_title: Navigation
+docs:
+
+- title: Findable
+  url: /findable
+
+- title: Accessible
+  url: /accessible
+
+- title: Interoperable
+  url: /interoperable
+
+- title: Reusable
+  url: /reusable
