@@ -1,3 +1,8 @@
+---
+title: Interoperable activities
+permalink: /interoperable/activities
+---
+
 # Activities Interoperable Module #FAIR101 
 
 ## Read

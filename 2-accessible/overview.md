@@ -1,3 +1,8 @@
+---
+title: Accessible
+permalink: /accessible
+---
+
 # Accessible
 
 Accessible describes data that can be potentially obtained by others. It is important to note that the FAIR principles do not require open data - in the absence of open data there

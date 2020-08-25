@@ -1,3 +1,8 @@
+---
+title: Reusable activities
+permalink: /reusable/activities
+---
+
 # Activities Reusable Module #FAIR101 
 
 ## Read

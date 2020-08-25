@@ -1,3 +1,8 @@
+---
+title: Findable
+permalink: /findable
+---
+
 # Findable
 
 Findable describes data that can be discovered by others. Even if the data itself is not available, the *metadata* is registered or indexed in a searchable resource,

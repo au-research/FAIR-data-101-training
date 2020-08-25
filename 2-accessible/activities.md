@@ -1,3 +1,8 @@
+---
+title: Accessible activities
+permalink: /accessible/activities
+---
+
 # Activities Accessible Module #FAIR101 
 
 ## Connect

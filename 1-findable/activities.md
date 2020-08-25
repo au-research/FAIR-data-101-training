@@ -1,3 +1,8 @@
+---
+title: Findable activities
+permalink: /findable/activities
+---
+
 # Activities Findable Module #FAIR101 
 
 ## Connect
