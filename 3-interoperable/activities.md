@@ -1,4 +1,4 @@
-# Activities Interoperable Module #FAIR101 
+# Interoperable Activities
 
 ## Read
 Time estimate: 15 minutes

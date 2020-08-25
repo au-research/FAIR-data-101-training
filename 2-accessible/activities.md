@@ -1,4 +1,4 @@
-# Activities Accessible Module #FAIR101 
+# Accessible Activities
 
 ## Connect
 Join the FAIR Data 101 Slack workspace and introduce yourself in the #introductions channel. 
