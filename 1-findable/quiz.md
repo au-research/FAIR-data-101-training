@@ -1,4 +1,5 @@
 ## Findable Quiz
+
 The answers to this quiz can be found in the FAIR Data 101 webinars and activities.
 
 You can retake this quiz after submitting it by opening the quiz again using your unique link. You can retake the quiz as many times as you would like up until the last day of the course. Your final answers when the quiz closes will be the ones used to determine your score. 
