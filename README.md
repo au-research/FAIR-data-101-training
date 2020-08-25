@@ -11,4 +11,3 @@ During the original run, each module took two weeks and consisted of:
 * A number of small group discussions
 * Activities
 * A quiz
-
