@@ -14,7 +14,7 @@ Watch these videos for an introduction to the Interoperable guiding principles.
 
 [![FAIR Data 101 webinar 5](https://img.youtube.com/vi/pnJ-wSlwTkk/0.jpg)](https://www.youtube.com/watch?v=pnJ-wSlwTkk)
 
-[![FAIR Data 101 webinar 6](https://img.youtube.com/vi/aUxH9O4CAWQA/0.jpg)](https://www.youtube.com/watch?v=aUxH9O4CAWQ)
+[![FAIR Data 101 webinar 6](https://img.youtube.com/vi/aUxH9O4CAWQ/0.jpg)](https://www.youtube.com/watch?v=aUxH9O4CAWQ)
 
 ## Activities
 
