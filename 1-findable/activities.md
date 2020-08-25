@@ -1,4 +1,4 @@
-# Activities Findable Module #FAIR101 
+# Findable Activities
 
 ## Connect
 Join the FAIR Data 101 Slack workspace and sign up for a Community Discussion
