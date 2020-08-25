@@ -9,7 +9,7 @@ The FAIR Data 101 virtual course was presented by the ARDC in 2020.
 Eighty people participated in this multimodal course over eight weeks.
 Each two-week module covered one of the four FAIR principles: Findable, Accessible,
 Interoperable and Reusable. In the first week of each module participants watched 
-two 45-minute live webinars, and in the second week they took part in a  
+two 45-minute live webinars, and in the second week they took part in a 
 community discussion session (up to 16 participants per discussion group). 
 During each module participants also completed a set of activities and a quiz in their own time. 
 The course was supported by a Slack channel, which allowed participants to ask questions to one 
