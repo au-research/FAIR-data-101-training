@@ -26,6 +26,8 @@ Work through these [activities](activities.md) to build your understanding of Fi
 
 ## Community discussion
 
+Use these questions when running a [community-discussion](course-resources/community-discussion-factsheet.md).
+
 **Topic questions**
 * Can you think of any data you collect in your workplace that would benefit from being linked data?
 * What controlled vocabularies does your organisation use, and have you ever wanted to extend them?

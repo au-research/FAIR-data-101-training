@@ -29,6 +29,8 @@ Work through these [activities](activities.md) to build your understanding of Fi
 
 ## Community discussion
 
+Use these questions when running a [community-discussion](course-resources/community-discussion-factsheet.md).
+
 **Introduction to community discussions**
 * What are your expectations for this course? 
 * What are you looking forward to?

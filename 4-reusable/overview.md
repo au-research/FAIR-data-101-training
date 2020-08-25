@@ -28,6 +28,8 @@ Work through these [activities](activities.md) to build your understanding of Fi
 
 ## Community discussion
 
+Use these questions when running a [community-discussion](course-resources/community-discussion-factsheet.md).
+
 **Topic questions**
 * In the (meta)data that you currently collect, is there much provenance information? How would you go about enhancing the provenance information of the (meta)data that you currently collect?
 * Do you currently apply a licence to the training materials that you produce? Do you have a favourite?
