@@ -5,24 +5,6 @@
 -   Contextualise it for your discipline or situation
 -   Adapt it to meet your specific research data knowledge needs
 
-The FAIR Data 101 virtual course was presented by the ARDC in 2020. 
-Eighty people participated in this multimodal course over eight weeks.
-Each two-week module covered one of the four FAIR principles: Findable, Accessible,
-Interoperable and Reusable. In the first week of each module participants watched 
-two 45-minute live webinars, and in the second week they took part in a 
-community discussion session (up to 16 participants per discussion group). 
-During each module participants also completed a set of activities and a quiz in their own time. 
-The course was supported by a Slack channel, which allowed participants to ask questions to one 
-another as well as the course's presenters.
-The materials developed for FAIR Data 101 will remain available
-on this [ARDC github repository](https://github.com/au-research/FAIR-data-101-training/).
-
-Every effort is made to ensure things and activities remain
-current, so please submit a [GitHub Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to our [ARDC github repository](https://github.com/au-research/FAIR-data-101-training/) if you
-discover a broken link or have suggestions for a more recent example.
-
-You can also [submit an issue](https://github.com/au-research/FAIR-data-101-training/issues/new) with a clear description of your updates. Alternatively, [contact the ARDC directly](https://ardc.edu.au/contact-us).
-
 ## Ideas for reusing these materials
 
 The possibilities are endless! The materials developed for the FAIR Data 101 course
