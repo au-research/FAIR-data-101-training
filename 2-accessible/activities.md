@@ -1,4 +1,9 @@
-# Accessible Activities
+---
+title: Accessible activities
+permalink: /accessible/activities
+---
+
+# Accessible activities
 
 ## Connect
 Join the FAIR Data 101 Slack workspace and introduce yourself in the #introductions channel. 

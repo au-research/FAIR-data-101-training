@@ -1,3 +1,8 @@
+---
+title: Interoperable
+permalink: /interoperable
+---
+
 # Interoperable overview
 
 Interoperable describes data that can be understood by machines and connected to other data.
