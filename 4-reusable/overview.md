@@ -3,8 +3,6 @@ title: Reusable
 permalink: /reusable
 ---
 
-# Reusable overview
-
 Reusable describes data that can be used again, beyond its original purpose. To be reusable, data not only needs to be described in a way to help others understand it, but also must be licensed with a licence that permits resuse. Furthermore, data must contain information about how it was created - provenance - so that others know whether the data can be trusted.
 
 **R1. (Meta)data are richly described with a plurality of accurate and relevant attributes**

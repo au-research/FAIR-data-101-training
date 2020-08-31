@@ -3,8 +3,6 @@ title: Interoperable
 permalink: /interoperable
 ---
 
-# Interoperable overview
-
 Interoperable describes data that can be understood by machines and connected to other data.
 
 **I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation**

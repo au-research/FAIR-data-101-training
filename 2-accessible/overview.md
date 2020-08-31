@@ -3,8 +3,6 @@ title: Accessible
 permalink: /accessible
 ---
 
-# Accessible overview
-
 Accessible describes data that can be potentially obtained by others. It is important to note that the FAIR principles do not require open data - in the absence of open data there
 should be a way for others to apply for access. Furthermore, if data are no longer available, the metadata that records it existence must remain available.
 

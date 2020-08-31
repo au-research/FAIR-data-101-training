@@ -3,8 +3,6 @@ title: Reusable activities
 permalink: /reusable/activities
 ---
 
-# Reusable activities
-
 ## Read
 Time estimate: 20 minutes
 

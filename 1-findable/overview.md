@@ -3,8 +3,6 @@ title: Findable
 permalink: /findable
 ---
 
-# Findable overview
-
 Findable describes data that can be discovered by others. Even if the data itself is not available, the *metadata* is registered or indexed in a searchable resource,
 and contains a globally unique and persistant identifier that can be used to disambiguate between similar, but not identical, data.
 

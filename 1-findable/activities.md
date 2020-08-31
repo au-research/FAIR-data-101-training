@@ -3,8 +3,6 @@ title: Findable activities
 permalink: /findable/activities
 ---
 
-# Findable activities
-
 ## Connect
 Join the FAIR Data 101 Slack workspace and sign up for a Community Discussion
 slot (using the link emailed to you) if you have not yet had the opportunity to do so.
