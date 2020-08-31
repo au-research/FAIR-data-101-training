@@ -1,4 +1,4 @@
-Welcome to the Australian Research Data Commons' FAIR Data 101 course!
+Welcome to the Australian Research Data Commons' *FAIR Data 101 Express* course!
 
 ## Announcements
 
