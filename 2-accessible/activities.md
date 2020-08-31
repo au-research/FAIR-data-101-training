@@ -3,7 +3,7 @@ title: Accessible activities
 permalink: /accessible/activities
 ---
 
-# Activities Accessible Module #FAIR101 
+# Accessible activities
 
 ## Connect
 Join the FAIR Data 101 Slack workspace and introduce yourself in the #introductions channel. 

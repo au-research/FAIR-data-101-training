@@ -3,7 +3,7 @@ title: Interoperable activities
 permalink: /interoperable/activities
 ---
 
-# Activities Interoperable Module #FAIR101 
+# Interoperable activities
 
 ## Read
 Time estimate: 15 minutes
