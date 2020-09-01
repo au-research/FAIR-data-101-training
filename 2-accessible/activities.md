@@ -4,11 +4,10 @@ permalink: /accessible/activities
 ---
 
 ## Connect
-Join the FAIR Data 101 Slack workspace and introduce yourself in the #introductions channel. 
-See if you can find the introductions for the people in your community group and say hi!
+Join the FAIR Data 101 Express Slack workspace (using the link emailed to you) and introduce yourself in the #introductions channel. 
 
-All the following activities are optional, feel free to choose one or more to pursue. 
-Bring your reflections along to the community discussion group next week.
+
+Feel free to choose one or more of the activities below to pursue. 
 
 ## Read
 Time estimate: about 15 minutes
