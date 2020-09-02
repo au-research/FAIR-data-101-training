@@ -1,4 +1,4 @@
-## FAIR Data 101 - Reusable
+## Reusable quiz
 The answers to this quiz can be found in the FAIR Data 101 webinars and activities.
 
 You can retake this quiz after submitting it by opening the quiz again using your unique link. You can retake the quiz as many times as you would like up until the last day of the course. Your final answers when the quiz closes will be the ones used to determine your score. 
@@ -19,12 +19,12 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 - [ ] True
 - [x] False
 
-3. Which Creative Commons licence would you use if you want all derivatives to use the same licence? 
+3. Which [Creative Commons licence](https://creativecommons.org.au/) would you use if you want all derivatives to use the same licence? 
 
-- [ ] CC BY
-- [ ] CC BY-NC
-- [x] CC BY-SA
-- [ ] CC BY-ND
+- [ ] [CC BY](https://creativecommons.org/licenses/by/4.0/)
+- [ ] [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+- [x] [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+- [ ] [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 4. What metadata can aid reuse of research data? Select all that apply.
 
@@ -37,10 +37,10 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 
 5. Which of the following resources about licensing research data refers specifically to copyright in the Australian context? Select all that apply.
 
-- [ ] DCC’s How to License Research Data
-- [x] ARDC’s Research Data Rights Management Guide
-- [x] ARDC’s Data rightsholder's/creator's flowchart
-- [ ] FOSTER’s The Open Science Training Handbook chapter on Open Licensing and File Formats
+- [ ] [DCC’s How to License Research Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data)
+- [x] [ARDC’s Research Data Rights Management Guide](https://ardc.edu.au/resource/research-data-rights-management-guide-2/)
+- [x] [ARDC’s Data rightsholder's/creator's flowchart](https://ardc.edu.au/wp-content/uploads/2019/09/Data_rightsholder%E2%80%99s_creator%E2%80%99s_flowchart.pdf)
+- [ ] [FOSTER’s The Open Science Training Handbook chapter on Open Licensing and File Formats](https://book.fosteropenscience.eu/en/02OpenScienceBasics/06OpenLicensingAndFileFormats.html)
 
 6. Which of these is true under Australian law? Select all that apply.
 
@@ -49,7 +49,7 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 - [ ] Creative Commons licences are not valid
 - [ ] Fair Use allows any data to be freely used for research or study purposes
 
-### 7. Following ARDC recommended practice in data citation, what is the correct citation for this dataset record?
+### 7. Following ARDC recommended practice in [data citation](https://ardc.edu.au/resources/working-with-data/citation-identifiers/data-citation/), what is the correct citation for this [dataset record?](https://researchdata.edu.au/golden-plains-koala-habitat/1433974/)
 
 - [ ] Golden Plains Shire Council, 2006, Golden Plains Koala Habitat, data.gov.au (Dataset) https://researchdata.edu.au/golden-plains-koala-habitat/1433974
 - [x] Golden Plains Shire Council, 2017, Golden Plains Koala Habitat, data.gov.au (Dataset) https://data.gov.au/data/dataset/3ae6b627-454f-4866-bf98-0cf167403915
