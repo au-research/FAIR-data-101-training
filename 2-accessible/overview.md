@@ -41,4 +41,4 @@ Use these questions when running a [community discussion](/course-resources/comm
 
 ## Quiz
 
-Answer [the quiz](quiz.md) to test your understanding of Findable.
+Answer [the quiz](https://www.surveymonkey.com/r/QZXY5GN) to test your understanding of Accessible.
