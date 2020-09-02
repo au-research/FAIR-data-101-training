@@ -27,7 +27,7 @@ Watch these videos for an introduction to the Reusable guiding principles.
 
 ## Activities
 
-Work through these [activities](activities.md) to build your understanding of Findable.
+Work through these [activities](activities.md) to build your understanding of Reusable.
 
 ## Community discussion
 
