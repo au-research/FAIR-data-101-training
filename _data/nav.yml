@@ -2,13 +2,13 @@ docs_list_title: Navigation
 docs:
 
 - title: Findable
-  url: /findable
+  url: {{ site.base_url | "/findable" }}
 
 - title: Accessible
-  url: /accessible
+  url: {{ site.base_url | "/accessible" }}
 
 - title: Interoperable
-  url: /interoperable
+  url: {{ site.base_url | "/interoperable" }}
 
 - title: Reusable
-  url: /reusable
+  url: {{ site.base_url | "/reusable" }}
