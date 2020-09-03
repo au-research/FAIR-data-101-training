@@ -29,9 +29,9 @@ Watch these videos for an introduction to the Reusable guiding principles.
 
 Work through these [activities](activities.md) to build your understanding of Reusable.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Topic questions**
 * In the (meta)data that you currently collect, is there much provenance information? How would you go about enhancing the provenance information of the (meta)data that you currently collect?

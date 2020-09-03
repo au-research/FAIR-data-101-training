@@ -30,9 +30,9 @@ Watch these videos for an introduction to the Accessible guiding principles.
 
 Work through these [activities](activities.md) to build your understanding of Accessible.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Topic questions**
 * What is the value of the FAIR principles making specific mention of protocols and the mechanics of facilitating access to data?

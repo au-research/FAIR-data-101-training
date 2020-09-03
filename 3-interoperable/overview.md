@@ -27,9 +27,9 @@ Watch these videos for an introduction to the Interoperable guiding principles.
 
 Work through these [activities](activities.md) to build your understanding of Interoperable.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Topic questions**
 * Can you think of any data you collect in your workplace that would benefit from being linked data?

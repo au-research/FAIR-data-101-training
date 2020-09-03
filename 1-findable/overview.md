@@ -30,9 +30,9 @@ Watch these videos for an introduction to the Findable guiding principles.
 
 Work through these [activities](activities.md) to build your understanding of Findable.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Introduction to community discussions**
 * What are your expectations for this course? 
