@@ -6,6 +6,7 @@ Each weekly module will cover one of the FAIR principles. You will find all of t
 
 ## Announcements
 
+* **7 September 2020:** Please note that the community discussions mentioned in the videos have been replaced by the Q&A webinars for this Express version of the course. You don't need to sign up for a community discussion group, just register for the Q&A webinars. 
 * **7 September 2020:** FAIR Data 101 Express officially starts today with Module 1, Findable! To get started, go to [Findable](findable) and watch the two videos there. You can then think about some questions to ask at Wednesday's Q&A webinar (see your welcome email for a link to register for this if you haven't already done so) and complete the activities and quiz. We hope you enjoy the course!
 
 ## Course calendar
