@@ -2,9 +2,9 @@ Welcome to the Australian Research Data Commons' FAIR Data 101 course!
 
 ## Announcements
 
-* **7/9/20:** FAIR Data 101 Express officially starts today with Module 1, Findable! To get started, go to the "Findable" page on this site and watch the two videos there. You can then think about some questions to ask at Wednesday's Q&A webinar (see your welcome email for a link to register for this if you haven't already done so) and complete the activities and quiz. We hope you enjoy the course!
+* **7 September 2020:** FAIR Data 101 Express officially starts today with Module 1, Findable! To get started, go to [Findable](findable) and watch the two videos there. You can then think about some questions to ask at Wednesday's Q&A webinar (see your welcome email for a link to register for this if you haven't already done so) and complete the activities and quiz. We hope you enjoy the course!
 
-## Course calendar
+## Course calendarg
 
 * Monday 7 September - Friday 11 September - [Findable](findable)
 * Monday 14 September - Friday 18 September - [Accessible](accessible)
