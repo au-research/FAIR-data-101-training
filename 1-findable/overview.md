@@ -26,6 +26,10 @@ Watch these videos for an introduction to the Findable guiding principles.
 
 * [Webinar 2 slides](webinar-2-slides.pdf)
 
+If you missed the Q&A webinar, you can watch the recording to catch up.
+
+[![FAIR Data 101 Findable Q&A](https://img.youtube.com/vi/6KAR4jJVK8I/0.jpg)](https://www.youtube.com/watch?v=6KAR4jJVK8I)
+
 ## Activities
 
 Work through these [activities](activities.md) to build your understanding of Findable.
