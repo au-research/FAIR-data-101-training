@@ -30,6 +30,8 @@ If you missed the Q&A webinar, you can watch the recording to catch up.
 
 [![FAIR Data 101 Findable Q&A](https://img.youtube.com/vi/6KAR4jJVK8I/0.jpg)](https://www.youtube.com/watch?v=6KAR4jJVK8I)
 
+* [Findable Q&A slides](findable-qa-slides.pdf)
+
 ## Activities
 
 Work through these [activities](activities.md) to build your understanding of Findable.
