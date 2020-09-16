@@ -52,9 +52,6 @@ Use the [Explore live on Binder](https://mybinder.org/v2/gh/mpfl/trove-api-intro
 button to launch a virtual environment on a BinderHub. Unfortunately, it can take several minutes to load, 
 so this is an ideal time to go get a cup of coffee. Please be patient.
 
-**Update (03/06/2020):** Unfortunately there is a small error in the notebook that means it will not work with 
-the latest version of the Trove API. We have created [a version of the notebook that works without errors.](https://mybinder.org/v2/gh/mpfl/trove-api-intro/master)
-
 Once the virtual environment has launched, click on **Your-first-API-request.ipynb** to open the notebook.
 
 A Jupyter notebook consists of explanatory text with a white background, and code blocks with grey backgrounds. 
