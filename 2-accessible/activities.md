@@ -28,6 +28,7 @@ Does this relate to your experience? How much should researchers know about rese
 Would you like to share a story about learning something outside of your comfort zone?
 
 ## Explore
+
 Time estimate: about 10 minutes
 
 Watch the first 10 minutes of ICPSR’s Sharing Restricted-Use Data with the Public [video on YouTube](https://www.youtube.com/watch?v=9vdWseLay9g&list=PLqC9lrhW1VvaKgzk-S87WwrlSMHliHQo6&index=3).  
@@ -48,7 +49,7 @@ This is possible thanks to the use of Binder, a technology for running Jupyter n
 
 The notebook uses Python, but no programming knowledge is necessary to work through the tutorial.
 
-Use the [Explore live on Binder](https://mybinder.org/v2/gh/mpfl/trove-api-intro/master) 
+Use the [Explore live on Binder](https://mybinder.org/v2/gh/GLAM-Workbench/trove-api-intro/master) 
 button to launch a virtual environment on a BinderHub. Unfortunately, it can take several minutes to load, 
 so this is an ideal time to go get a cup of coffee. Please be patient.
 
