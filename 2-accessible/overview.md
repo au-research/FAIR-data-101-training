@@ -26,6 +26,8 @@ Watch these videos for an introduction to the Accessible guiding principles.
 
 * [Webinar 4 slides](webinar-4-slides.pdf)
 
+* [Accessible Q&A slides](accessible-qa-slides.pdf)
+
 ## Activities
 
 Work through these [activities](activities.md) to build your understanding of Accessible.
