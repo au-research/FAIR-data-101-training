@@ -26,6 +26,8 @@ Watch these videos for an introduction to the Accessible guiding principles.
 
 * [Webinar 4 slides](webinar-4-slides.pdf)
 
+[![FAIR Data 101 webinar 4](https://img.youtube.com/vi/0tR-K7DKD3Q/0.jpg)](https://www.youtube.com/watch?v=0tR-K7DKD3Q)
+
 * [Accessible Q&A slides](accessible-qa-slides.pdf)
 
 ## Activities
