@@ -43,7 +43,7 @@ Answer: These are often different sides of the same coin. Findability responds t
 
 **Would that lead to Institutions having ORCiDs? (can institutions currently have ORCiDs?)**
 
-Answer: There is a different PID for organisation - RoR.  
+Answer: There is a different PID for organisation - [RoR](https://ror.org/scope/).  
 
 **How early in the research project lifecycle would you obtain a DOI for the research data?**
 
@@ -58,15 +58,15 @@ Answer: Yes, changing what we value and how we encourage that cultural change is
 
 **Clearly the specifics (e.g. the Consent) aren't going to be unified if some mediation is involved. Is there any international move on the forms of access - others probably face the same questions.**
 
-Answer: In terms of international efforts towards categories of access, you could take a look at the UK Data Service’s three-tiered access model.
+Answer: In terms of international efforts towards categories of access, you could take a look at the [UK Data Service’s three-tiered access model](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/three-tiers-of-access.aspx).
 
-**I guess I'm looking at pass-through data. I want to share already publicly available information more readily (say NCBI Refseq), I feel like it is less complex but not sure what I'll get caught out by.**
+**I guess I'm looking at pass-through data. I want to share already publicly available information more readily (say [NCBI Refseq](https://www.ncbi.nlm.nih.gov/refseq/)), I feel like it is less complex but not sure what I'll get caught out by.**
 
-Answer: This is an interesting question - pass-through data sounds like you’re talking about working data, or using a repository with analytic/ interrogative functions. Recognising the range of contributions and submissions to NCBI’s databases, NCBI in fact don’t license the content. We’ll dig into licensing a little more in the final week. This article has some useful discussion about decisions you need to make when sharing data similar to what you might find in NCBI’s RefSeq:“Ten quick tips for sharing open genomic data” 
+Answer: This is an interesting question - pass-through data sounds like you’re talking about working data, or using a repository with analytic/ interrogative functions. Recognising the range of contributions and submissions to NCBI’s databases, NCBI in fact don’t license the content. We’ll dig into licensing a little more in the final week. This article has some useful discussion about decisions you need to make when sharing data similar to what you might find in NCBI’s RefSeq:[“Ten quick tips for sharing open genomic data”](https://doi.org/10.1371/journal.pcbi.1006472) 
 
 **Do we have examples for managing data access, where an inhomogenous mix of access rules applies to a single data product? An example is sharing calibration data across independent measurement or observation campaigns to maximize the efficiency of an expensive facility. Here access rules between campaigns can differ, whereas some fraction of the data package/product is commensal.**
 
-Answer: You could look at AURIN, which combines urban infrastructure data across a range of private and public sources, and mediates access for researchers, government and industry users. 
+Answer: You could look at [AURIN](https://aurin.org.au/), which combines urban infrastructure data across a range of private and public sources, and mediates access for researchers, government and industry users. 
 
 **What if researchers in my institution are reluctant to share data?**
 
