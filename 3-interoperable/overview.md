@@ -23,6 +23,8 @@ Watch these videos for an introduction to the Interoperable guiding principles.
 
 * [Webinar 6 slides](webinar-6-slides.pdf)
 
+* [Interoperable Q&A slides](interoperable-qa-slides.pdf)
+
 ## Activities
 
 Work through these [activities](activities.md) to build your understanding of Interoperable.
