@@ -23,6 +23,8 @@ Watch these videos for an introduction to the Interoperable guiding principles.
 
 * [Webinar 6 slides](webinar-6-slides.pdf)
 
+[![FAIR Data 101 Interoperable Q&A](https://img.youtube.com/vi/ZeK9z-gLH5Y/0.jpg)](https://www.youtube.com/watch?v=ZeK9z-gLH5Y)
+
 * [Interoperable Q&A slides](interoperable-qa-slides.pdf)
 
 ## Activities
