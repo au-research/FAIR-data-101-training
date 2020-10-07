@@ -25,6 +25,9 @@ Watch these videos for an introduction to the Reusable guiding principles.
 
 * [Webinar 8 slides](webinar-8-slides.pdf)
 
+[![FAIR Data 101 Reusable Q&A](https://youtu.be/55z2WcR1tgk)
+
+
 ## Activities
 
 Work through these [activities](activities.md) to build your understanding of Reusable.
