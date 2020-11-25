@@ -71,3 +71,13 @@ Answer: You could look at [AURIN](https://aurin.org.au/), which combines urban i
 **What if researchers in my institution are reluctant to share data?**
 
 Answer: Researchers can be reluctant to share data if there is no perceived immediate benefit. Often a salient benefit of preparing research data to share is that it’s easier for the researcher to find it and reuse it themselves in the future. Although many research funders and journal publishers now require a data availability statement, there may be specific reasons why some research disciplines do not encourage data sharing. It might be worth having a longer conversation about what your researchers’ needs are in relation to managing active data, and starting from there.
+
+### Interoperable - 23 September 2020
+
+**(regarding linked data:) Would relational database be used to reflect relationships between objects?**
+
+**Do some of the platforms e.g. FigShare 'build in' elements of interoperability by default? If our dataset is hosted there, is it meeting FAIR standards?**
+
+### Reusable - 30 September 2020
+
+(All questions were answered in the live Q&A session)
