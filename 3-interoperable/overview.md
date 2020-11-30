@@ -42,4 +42,4 @@ Use these questions to start a conversation on our Slack workspace, or with your
 
 ## Quiz
 
-Answer [the quiz](https://www.surveymonkey.com/r/KHWKQVT) to test your understanding of Interoperable.
+Answer [the quiz](quiz.md) to test your understanding of Interoperable.
