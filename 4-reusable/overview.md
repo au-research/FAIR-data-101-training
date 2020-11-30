@@ -44,4 +44,4 @@ Use these questions to start a conversation on our Slack workspace, or with your
 
 ## Quiz
 
-Answer [the quiz](https://www.surveymonkey.com/r/T2TTNS2) to test your understanding of Reusable.
+Answer [the quiz](quiz.md) to test your understanding of Reusable.
