@@ -35,7 +35,7 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 - [x] The standards and formats used to structure the data
 - [x] Preservation actions that have been applied to the research data
 
-5. Which of the following resources about licensing research data refers specifically to copyright in the Australian context? Select all that apply.
+5. Which of the following resources about licensing research data focuses specifically on copyright in the Australian context? Select all that apply.
 
 - [ ] [DCC’s How to License Research Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data)
 - [x] [ARDC’s Research Data Rights Management Guide](https://ardc.edu.au/resource/research-data-rights-management-guide-2/)

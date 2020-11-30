@@ -19,7 +19,7 @@
 
         <div class="trigger">
           {%- for item in site.data.nav.docs -%}
-            <a class="page-link" href="{{ item.url }}">{{ item.title | escape }}</a>
+            <a class="page-link" href="{{ site.baseurl }}/{{ item.url }}">{{ item.title | escape }}</a>
           {%- endfor -%}
         </div>
       </nav>

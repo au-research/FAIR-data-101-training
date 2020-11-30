@@ -3,8 +3,6 @@ title: Accessible
 permalink: /accessible
 ---
 
-# Accessible overview
-
 Accessible describes data that can be potentially obtained by others. It is important to note that the FAIR principles do not require open data - in the absence of open data there
 should be a way for others to apply for access. Furthermore, if data are no longer available, the metadata that records it existence must remain available.
 
@@ -28,13 +26,17 @@ Watch these videos for an introduction to the Accessible guiding principles.
 
 * [Webinar 4 slides](webinar-4-slides.pdf)
 
+[![FAIR Data 101 Accessible Q&A](https://img.youtube.com/vi/0tR-K7DKD3Q/0.jpg)](https://www.youtube.com/watch?v=0tR-K7DKD3Q)
+
+* [Accessible Q&A slides](accessible-qa-slides.pdf)
+
 ## Activities
 
-Work through these [activities](activities.md) to build your understanding of Findable.
+Work through these [activities](activities.md) to build your understanding of Accessible.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Topic questions**
 * What is the value of the FAIR principles making specific mention of protocols and the mechanics of facilitating access to data?
@@ -43,4 +45,4 @@ Use these questions when running a [community discussion](/course-resources/comm
 
 ## Quiz
 
-Answer [the quiz](quiz.md) to test your understanding of Findable.
+Answer [the quiz](https://www.surveymonkey.com/r/QZXY5GN) to test your understanding of Accessible.

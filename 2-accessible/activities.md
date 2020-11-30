@@ -3,14 +3,11 @@ title: Accessible activities
 permalink: /accessible/activities
 ---
 
-# Accessible activities
-
 ## Connect
-Join the FAIR Data 101 Slack workspace and introduce yourself in the #introductions channel. 
-See if you can find the introductions for the people in your community group and say hi!
+Join the FAIR Data 101 Express Slack workspace (using the link emailed to you) and introduce yourself in the #introductions channel. 
 
-All the following activities are optional, feel free to choose one or more to pursue. 
-Bring your reflections along to the community discussion group next week.
+
+Feel free to choose one or more of the activities below to pursue. 
 
 ## Read
 Time estimate: about 15 minutes
@@ -31,6 +28,7 @@ Does this relate to your experience? How much should researchers know about rese
 Would you like to share a story about learning something outside of your comfort zone?
 
 ## Explore
+
 Time estimate: about 10 minutes
 
 Watch the first 10 minutes of ICPSR’s Sharing Restricted-Use Data with the Public [video on YouTube](https://www.youtube.com/watch?v=9vdWseLay9g&list=PLqC9lrhW1VvaKgzk-S87WwrlSMHliHQo6&index=3).  
@@ -51,12 +49,9 @@ This is possible thanks to the use of Binder, a technology for running Jupyter n
 
 The notebook uses Python, but no programming knowledge is necessary to work through the tutorial.
 
-Use the [Explore live on Binder](https://mybinder.org/v2/gh/mpfl/trove-api-intro/master) 
+Use the [Explore live on Binder](https://mybinder.org/v2/gh/GLAM-Workbench/trove-api-intro/master) 
 button to launch a virtual environment on a BinderHub. Unfortunately, it can take several minutes to load, 
 so this is an ideal time to go get a cup of coffee. Please be patient.
-
-**Update (03/06/2020):** Unfortunately there is a small error in the notebook that means it will not work with 
-the latest version of the Trove API. We have created [a version of the notebook that works without errors.](https://mybinder.org/v2/gh/mpfl/trove-api-intro/master)
 
 Once the virtual environment has launched, click on **Your-first-API-request.ipynb** to open the notebook.
 

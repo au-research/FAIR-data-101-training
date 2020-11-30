@@ -3,8 +3,6 @@ title: Interoperable
 permalink: /interoperable
 ---
 
-# Interoperable overview
-
 Interoperable describes data that can be understood by machines and connected to other data.
 
 **I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation**
@@ -25,13 +23,17 @@ Watch these videos for an introduction to the Interoperable guiding principles.
 
 * [Webinar 6 slides](webinar-6-slides.pdf)
 
+[![FAIR Data 101 Interoperable Q&A](https://img.youtube.com/vi/ZeK9z-gLH5Y/0.jpg)](https://www.youtube.com/watch?v=ZeK9z-gLH5Y)
+
+* [Interoperable Q&A slides](interoperable-qa-slides.pdf)
+
 ## Activities
 
-Work through these [activities](activities.md) to build your understanding of Findable.
+Work through these [activities](activities.md) to build your understanding of Interoperable.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Topic questions**
 * Can you think of any data you collect in your workplace that would benefit from being linked data?
@@ -40,4 +42,4 @@ Use these questions when running a [community discussion](/course-resources/comm
 
 ## Quiz
 
-Answer [the quiz](quiz.md) to test your understanding of Findable.
+Answer [the quiz](https://www.surveymonkey.com/r/KHWKQVT) to test your understanding of Interoperable.

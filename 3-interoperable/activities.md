@@ -3,8 +3,6 @@ title: Interoperable activities
 permalink: /interoperable/activities
 ---
 
-# Interoperable activities
-
 ## Read
 Time estimate: 15 minutes
 

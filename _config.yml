@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FAIR Data 101
+title: FAIR Data 101 Express
 email: contact@ardc.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  FAIR Data 101 is a four week course that gives an introduction to the FAIR principles.
+  FAIR Data 101 Express is a four week course that gives an introduction to the FAIR principles.
 baseurl: "/FAIR-data-101-training" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://au-research.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ARDC_AU
 github_username:  au-research
 # Build settings
