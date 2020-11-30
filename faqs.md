@@ -76,7 +76,11 @@ Answer: Researchers can be reluctant to share data if there is no perceived imme
 
 **(regarding linked data:) Would relational database be used to reflect relationships between objects?**
 
+Linked data does not generally used relationship databases (such as SQL). Relational databases are limited in that relationships can only be defined with records in the same database. One of the strengths of linked (open) data is that any publicly-available dataset can be linked to.
+
 **Do some of the platforms e.g. FigShare 'build in' elements of interoperability by default? If our dataset is hosted there, is it meeting FAIR standards?**
+
+The various data repository platforms all build in some elements of the FAIR principles, but still put some of the onus on the data depositor. For example, most data repositories let you add keywords to your metadata record, but they do not necessarily require you to add keywords from a vocabulary that follows FAIR principles. It would be up to you to do that.
 
 ### Reusable - 30 September 2020
 
