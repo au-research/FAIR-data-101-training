@@ -13,8 +13,8 @@ One of the key benefits of engaging in a virtual training course over several we
 
 Course participants have been allocated to 5 discussion groups, distinguished according to 5 different types of orchid, naturally. You will stay in these groups and meet fortnightly over the next 7 weeks. Within these groups, participants have been randomly allocated a role to undertake, which are outlined below. Each group will also have an ARDC facilitator and host to welcome and support the discussions. We have outlined an agenda template for each discussion session. This agenda allows for participants to
 
-a. ask questions and discuss in the large group
-a. join breakout rooms of 3-4 people for more considered reflection  
+* ask questions and discuss in the large group
+* join breakout rooms of 3-4 people for more considered reflection  
 
 Each discussion group is supported by a collaborative google doc for participants to sign in and record discussion. 
 
