@@ -1,9 +1,6 @@
 ## Interoperable Quiz
-The answers to this quiz can be found in the FAIR Data 101 webinars and activities.
 
-You can retake this quiz after submitting it by opening the quiz again using your unique link. You can retake the quiz as many times as you would like up until the last day of the course. Your final answers when the quiz closes will be the ones used to determine your score. 
-
-If you score greater than 50% correct in all four quizzes by the end of the course, you will receive a FAIR Data 101 sticker.  
+This file includes the quiz questions and correct answers, and is optimised for a multiple choice or multiple checkbox question format. You can use this file to migrate the questions and answers into a quiz platform of your own choosing.
 
 ### 1. What can be done to make data more interoperable? Select all that apply.
 

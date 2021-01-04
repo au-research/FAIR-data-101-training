@@ -57,6 +57,8 @@ adapt the materials, and are willing to share what you’ve done, please
 submit an issue or a pull request and we’ll add them to the
 tool-kit. Let’s share as much as we can!
 
+A snapshot of this repository is periodically saved to Zenodo, after major updates. Please use the suggested citation from the latest version of the Zenodo record if you want to cite any of these materials.
+
 ### Source material for FAIR Data 101
 
 The source material is available in Markdown format from the [ARDC github repository](https://github.com/au-research/FAIR-data-101-training/). Markdown is a light weight markdown language that can be converted into a number of different formats, including HTML.
