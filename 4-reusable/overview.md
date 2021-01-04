@@ -1,4 +1,7 @@
-# Reusable overview
+---
+title: Reusable
+permalink: /reusable
+---
 
 Reusable describes data that can be used again, beyond its original purpose. To be reusable, data not only needs to be described in a way to help others understand it, but also must be licensed with a licence that permits resuse. Furthermore, data must contain information about how it was created - provenance - so that others know whether the data can be trusted.
 
@@ -22,13 +25,15 @@ Watch these videos for an introduction to the Reusable guiding principles.
 
 * [Webinar 8 slides](webinar-8-slides.pdf)
 
+[![FAIR Data 101 Reusable Q&A](https://img.youtube.com/vi/55z2WcR1tgk/0.jpg)](https://www.youtube.com/watch?v=55z2WcR1tgk)
+
 ## Activities
 
-Work through these [activities](activities.md) to build your understanding of Findable.
+Work through these [activities](activities.md) to build your understanding of Reusable.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Topic questions**
 * In the (meta)data that you currently collect, is there much provenance information? How would you go about enhancing the provenance information of the (meta)data that you currently collect?
@@ -39,4 +44,4 @@ Use these questions when running a [community discussion](/course-resources/comm
 
 ## Quiz
 
-Answer [the quiz](quiz.md) to test your understanding of Findable.
+Answer [the quiz](quiz.md) to test your understanding of Reusable.

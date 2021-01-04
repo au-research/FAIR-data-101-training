@@ -1,4 +1,7 @@
-# Reusable Activities
+---
+title: Reusable activities
+permalink: /reusable/activities
+---
 
 ## Read
 Time estimate: 20 minutes

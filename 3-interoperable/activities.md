@@ -1,4 +1,7 @@
-# Interoperable Activities
+---
+title: Interoperable activities
+permalink: /interoperable/activities
+---
 
 ## Read
 Time estimate: 15 minutes

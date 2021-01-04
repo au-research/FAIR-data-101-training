@@ -1,4 +1,7 @@
-# Findable overview
+---
+title: Findable
+permalink: /findable
+---
 
 Findable describes data that can be discovered by others. Even if the data itself is not available, the *metadata* is registered or indexed in a searchable resource,
 and contains a globally unique and persistant identifier that can be used to disambiguate between similar, but not identical, data.
@@ -23,13 +26,19 @@ Watch these videos for an introduction to the Findable guiding principles.
 
 * [Webinar 2 slides](webinar-2-slides.pdf)
 
+If you missed the Q&A webinar, you can watch the recording to catch up.
+
+[![FAIR Data 101 Findable Q&A](https://img.youtube.com/vi/6KAR4jJVK8I/0.jpg)](https://www.youtube.com/watch?v=6KAR4jJVK8I)
+
+* [Findable Q&A slides](findable-qa-slides.pdf)
+
 ## Activities
 
 Work through these [activities](activities.md) to build your understanding of Findable.
 
-## Community discussion
+## Discussion starters
 
-Use these questions when running a [community discussion](/course-resources/community-discussion-factsheet.md).
+Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
 
 **Introduction to community discussions**
 * What are your expectations for this course? 
