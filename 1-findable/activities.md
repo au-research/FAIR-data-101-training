@@ -80,6 +80,7 @@ Answer the following questions:
     1. Has more than 100 downloads
     1. Has more than 150 views
     1. Is linked to more than 1 version
+1. Navigate to the principles page and read about how the [Zenodo repository](https://about.zenodo.org/principles/) responds to the FAIR principles. How many of these resonate with the services your organisation provides?
 
 ### Hunt 5 
 
