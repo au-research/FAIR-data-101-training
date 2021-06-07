@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FAIR Data 101 Express
+title: FAIR Data 101
 email: contact@ardc.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   FAIR Data 101 Express is a four week course that gives an introduction to the FAIR principles.
@@ -46,7 +46,7 @@ exclude:
   - 1-findable/quiz.md
   - 2-accessible/quiz.md
   - 3-interoperable/quiz.md
-  - 4-reusable/quiz.md    
+  - 4-reusable/quiz.md
 #   - gemfiles/
 #   - node_modules/
 #   - vendor/bundle/
@@ -60,4 +60,4 @@ defaults:
       path: ''
     values:
       author: ARDC
-      layout: page 
+      layout: page
