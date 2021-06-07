@@ -63,7 +63,7 @@ Active updates
 Tutorial and videos
 
 ### Subsets of this material
-For more information see the [previous versions' descriptios of this material](./README).
+For more information see the [previous versions' descriptions of this material]
 
 ### This material is part of
-[ARDC FAIR Data 101 Express v2 DOI: 10.5281/zenodo.4414980](https://doi.org/10.5281/zenodo.4414980)
+ARDC FAIR Data 101 Express v2 [DOI: 10.5281/zenodo.4414980](https://doi.org/10.5281/zenodo.4414980)
