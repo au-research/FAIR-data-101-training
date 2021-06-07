@@ -3,8 +3,6 @@ title: FAIR training resources
 permalink: /
 ---
 
-# Overview
-
 ### Title
 ARDC FAIR data 101 v3
 
@@ -42,13 +40,12 @@ TBC
 TBD
 
 ### Licence
-[Creative Commons Attribution (CC BY 4.0) international](./LICENCE)
-
-### Version
-ARDC FAIR101 v3
+[Creative Commons Attribution (CC BY 4.0) international](https://au-research.github.io/FAIR-data-101-training/licence)
 
 ### Extra details
 **Keywords:** FAIR, data, data management, research, Findable, Accessible, Interoperable, Reusable
+
+**Version:** ARDC FAIR101 v3
 
 **Dates**
 *Created:  12/04/2021
