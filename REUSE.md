@@ -29,26 +29,26 @@ pace.
 
 ### Run your own short courses
 
-Each module has its own section containing the materials and resources on that topic. 
+Each module has its own section containing the materials and resources on that topic.
 Run some short courses for your work group, new inductees or
 other groups at your institution.
 
 -   Each module takes around 3 hours to complete - have your learners watch the webinars
-    and complete the activities and quizzes in their own time, and hold a 45-minute 
+    and complete the activities and quizzes in their own time, and hold a 45-minute
     discussion session for each module
 -   Migrate the quizzes into the software of your choice to use as a measure of participation or an assessment tool
 
-
+### Contact us
 If you have questions or comments about any of this material you can share
 them by tweeting to
 [@ardc_au](http://www.twitter.com/@ardc_au "ARDC on Twitter") or in
-the [Data Librarians
-Slack Workspace](https://tiny.cc/data-librarians).
+the [Data Librarians Slack Workspace](https://tiny.cc/data-librarians) or Email
+[Contact ARDC](mailto:contact@ardc.edu.au).
 
 ## License for reuse of FAIR Data 101 materials
 
 All FAIR Data 101 materials are licensed under a [Creative
-Commons Attribution 4.0 licence (CC-BY)](https://creativecommons.org/licenses/by/4.0/), meaning you can reuse and republish with attribution to the
+Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/), meaning you can reuse and republish with attribution to the
 Australian Research Data Commons (ARDC).
 
 We want you to use, adopt, adapt and contextualise the activities and
@@ -67,5 +67,3 @@ The source material is available in Markdown format from the [ARDC github reposi
 
 Have you adapted FAIR Data 101 for your institution? [Let us
 know](mailto:contact@ardc.org.au) so we can feature your program here.
-
-
