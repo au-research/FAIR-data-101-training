@@ -11,9 +11,6 @@ ARDC FAIR data 101 v3
 ### Description
 Reorganised version of the ARDC FAIR101 v2 to be used as self guided material.
 
-### Keywords
-FAIR, data, data management, research, Findable, Accessible, Interoperable, Reusable
-
 ### Time required
 TBC
 
@@ -41,20 +38,6 @@ TBC
 ### Contact
 [Contact ARDC](mailto:contact@ardc.edu.au)
 
-### Dates
-Created:  12/04/2021
-
-Modified: 07/06/2021
-
-Published:  TBC
-
-### Work status
-Work in progress
-Active updates
-
-## Learning resource type
-Tutorial and videos
-
 ### Identifier
 TBD
 
@@ -63,6 +46,21 @@ TBD
 
 ### Version
 ARDC FAIR101 v3
+
+### Extra details
+**Keywords:** FAIR, data, data management, research, Findable, Accessible, Interoperable, Reusable
+
+**Dates**
+*Created:  12/04/2021
+*Modified: 07/06/2021
+*Published:  TBC
+
+**Work status**
+Work in progress
+Active updates
+
+**Learning resource type**
+Tutorial and videos
 
 ### Subsets of this material
 For more information see the [previous versions' descriptios of this material](./README).
