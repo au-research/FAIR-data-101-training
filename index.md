@@ -35,32 +35,3 @@ TBC
 
 ### Contact
 [Contact ARDC](mailto:contact@ardc.edu.au)
-
-### Identifier
-TBD
-
-### Licence
-[Creative Commons Attribution (CC BY 4.0) international](https://au-research.github.io/FAIR-data-101-training/licence)
-
-### Extra details
-**Keywords:** FAIR, data, data management, research, Findable, Accessible, Interoperable, Reusable
-
-**Version:** ARDC FAIR101 v3
-
-**Dates**
-*Created:  12/04/2021
-*Modified: 07/06/2021
-*Published:  TBC
-
-**Work status**
-Work in progress
-Active updates
-
-**Learning resource type**
-Tutorial and videos
-
-### Subsets of this material
-For more information see the [previous versions' descriptions of this material]
-
-### This material is part of
-ARDC FAIR Data 101 Express v2 [DOI: 10.5281/zenodo.4414980](https://doi.org/10.5281/zenodo.4414980)
