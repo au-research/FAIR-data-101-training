@@ -33,6 +33,6 @@ All individuals part-taking in this course are encourage to follow the [ARDC's C
 by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ## Licence
-All content of the ARDC FAIR data 101 is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. 
+All content of the ARDC FAIR data 101 is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence. 
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
 The [licence](./LICENCE.md) is also in this repo.
