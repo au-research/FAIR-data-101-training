@@ -23,7 +23,8 @@ TBC
 * [Paula Andrea Martinez](https://orcid.org/org/0000-0002-8990-1985)
 
 ## Licence
-[Creative Commons Attribution (CC BY 4.0) international](/LICENCE)
+All content of the ARDC FAIR data 101 is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence. 
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
 
 ## How to cite this work
 TBC
