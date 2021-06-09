@@ -9,7 +9,7 @@ Welcome to the Australian Research Data Commons' *FAIR Data 101* self-guided mat
 The course is aimed at individuals working with or expecting to work with data as researchers, publishers, librarians, or in research support, especially those seeking to develop their skills in managing FAIR data in practice and to understand the tools that can support them in doing this.
 
 ## Description
-The third version of this online course stands with a self guide. The total time commitment for participants is XX hours.
+The third version of this online course is a selfguided material. The total time commitment for participants is XX hours.
 
 ## How to run this course
 TBC
