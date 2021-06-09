@@ -27,4 +27,4 @@ All content of the ARDC FAIR data 101 is licensed under the [Creative Commons At
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
 
 ## How to cite this work
-TBC
+Matthias Liffers, Liz Stokes, Nichola Burton & Paula Andrea Martinez (2021, June). ARDC FAIR Data 101 self-guided https://github.com/au-research/FAIR-data-101-training
