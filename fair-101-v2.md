@@ -45,7 +45,8 @@ Each module should take around 3 hours to complete. Total of 12 hours spread in 
 * [Nichola Burton](https://orcid.org/0000-0003-4470-4846)
 
 ## Licence
-[Creative Commons Attribution (CC BY 4.0) international](/LICENCE)
+All content of the ARDC FAIR data 101 is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence. 
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
 
 ## How to cite this work
 Matthias Liffers, Liz Stokes, Nichola Burton, & Tran Le. (2021, January 4). au-research/FAIR-data-101-training v2.0 (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.4414980
