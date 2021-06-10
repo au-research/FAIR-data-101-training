@@ -21,6 +21,7 @@
           {%- for item in site.data.nav.docs -%}
             <a class="page-link" href="{{ site.baseurl }}/{{ item.url }}">{{ item.title | escape }}</a>
           {%- endfor -%}
+          <a class="page-link" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}">Improve this page</a>
         </div>
       </nav>
     {%- endif -%}
