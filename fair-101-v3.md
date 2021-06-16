@@ -14,6 +14,8 @@ The third version of this online course is a selfguided material. The total time
 ## How to run this course
 TBC
 
+All individuals part-taking in this course are encourage to follow the [ARDC's Course Code of Conduct](https://tiny.cc/code-conduct), inspired
+by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ## Credits
 
@@ -27,4 +29,4 @@ All content of the ARDC FAIR data 101 is licensed under the [Creative Commons At
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
 
 ## How to cite this work
-Matthias Liffers, Liz Stokes, Nichola Burton & Paula Andrea Martinez (2021, June). ARDC FAIR Data 101 self-guided https://github.com/au-research/FAIR-data-101-training
+Matthias Liffers, Liz Stokes, Nichola Burton & Paula Andrea Martinez (2021, June). ARDC FAIR Data 101 self-guided https://github.com/au-research/FAIR-data-101-training [DOI: XXX](https://doi.org/XXX)
