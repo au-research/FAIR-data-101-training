@@ -3,8 +3,9 @@ title: Findable activities
 permalink: /findable/activities
 ---
 
-## Connect
-Join the FAIR Data 101 Express Slack workspace (using the link emailed to you) if you have not yet had the opportunity to do so.
+## Overview
+
+Feel free to choose one or more of the activities below to pursue. 
 
 ## Read
 Read the article where it all began: the FAIR Guiding Principles were first 
