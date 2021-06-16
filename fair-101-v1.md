@@ -9,8 +9,7 @@ The course is aimed at individuals working with or expecting to work with data a
 
 ## Description
 The first version of this online course was delivered between 11 May to 26 June 2020. The total time commitment for participants was 16 hours over 8 weeks.
-The course was divided into four modules. Each two-week module covered one of the four FAIR principles and consisted of:
-* Two webinars [videos playlist](https://www.youtube.com/playlist?list=PLG25fMbdLRa7bf4FNTS_LHV7hHOyFvkc-)
+The course was divided into four modules. Each two-week module covered one of the four FAIR principles and consisted of two webinars. You can find the [video playlist on the ARDC YouTube channel](https://www.youtube.com/playlist?list=PLG25fMbdLRa7bf4FNTS_LHV7hHOyFvkc-).
 
 The slides for each webinar can be accessed from this list:
 * Findable
@@ -40,6 +39,9 @@ After each webinar or community discussion, a short survey was distributed to ca
 
 The course was supported by a free Slack workspace, which allowed participants to ask questions to one
 another as well as the course's presenters. This also served as a place to make professional introductions and network nationally with colleagues. All participants were removed from the workspace after the course finished.
+
+All individuals part-taking in this course were encourage to follow the [ARDC's Course Code of Conduct](https://tiny.cc/code-conduct), inspired
+by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ## Credits
 
