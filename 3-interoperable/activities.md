@@ -2,12 +2,14 @@
 title: Interoperable activities
 permalink: /interoperable/activities
 ---
+## Overview
+
+Feel free to choose one or more of the activities below to pursue. 
 
 ## Read
 Time estimate: 15 minutes
 
-Follow the links and consider the questions below each reading. You may want to share some thoughts on the #general channel 
-in the FAIR data slack workspace.
+Follow the links and consider the questions below each reading.
 
 National Archives of Australia, 2018, Interoperability scenarios, accessed 8 June 2020. 
 [https://www.naa.gov.au/sites/default/files/2019-09/Interoperability%20scenarios.pdf](https://www.naa.gov.au/sites/default/files/2019-09/Interoperability%20scenarios.pdf)
