@@ -3,17 +3,14 @@ title: Accessible activities
 permalink: /accessible/activities
 ---
 
-## Connect
-Join the FAIR Data 101 Express Slack workspace (using the link emailed to you) and introduce yourself in the #introductions channel. 
-
+## Overview
 
 Feel free to choose one or more of the activities below to pursue. 
 
 ## Read
 Time estimate: about 15 minutes
 
-Follow the links and consider the questions below each reading. You may want to share some thoughts 
-on the #general channel in the FAIR data slack workspace.
+Follow the links and consider the questions below each reading.
 
 Higman, Rosie, Daniel Bangert, and Sarah Jones. 2019. “Three Camps, One Destination: The Intersections 
 of Research Data Management, FAIR and Open”. Insights 32 (1): 18. DOI: [http://doi.org/10.1629/uksg.468](http://doi.org/10.1629/uksg.468) 
