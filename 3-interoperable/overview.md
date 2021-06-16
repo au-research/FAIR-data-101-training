@@ -33,7 +33,7 @@ Work through these [activities](activities.md) to build your understanding of In
 
 ## Discussion starters
 
-Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
+Use these questions to start a conversation with your colleagues over a cup of beverage.
 
 **Topic questions**
 * Can you think of any data you collect in your workplace that would benefit from being linked data?
