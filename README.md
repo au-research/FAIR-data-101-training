@@ -9,15 +9,15 @@ FAIR stands for **F**indable, **A**ccessible, **I**nteroperable and **R**eusable
 Making research data more FAIR provides a range of benefits to the wider research community by enabling future researchers to publish, share, cite and reuse research data. The [FAIR Principles](https://doi.org/10.1038/sdata.2016.18) put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. Also note the FAIR Principles are aspirational and generic. 
 
 ## FAIR Data 101 Self-guided
-The third version of this online course stands as a self-guided material. The total time commitment for participants is XX hours. A short description of the contents and how the course can be run is detailed [here](./fair-101-v3.md).
+The third version of this online course stands as a self-guided material. The total time commitment for participants is XX hours. Read the short description of contents and how the course can be run in the [FAIR-101-v3](./fair-101-v3.md).
 
 ### Past versions 
 
 #### FAIR Data 101 Express
-The second version of this online course was delivered between 7 September to 2 October 2020. The total time commitment for participants was 12 hours over 4 weeks. A short description of the contents and how the course was run is detailed [here](./fair-101-v2.md).
+The second version of this online course was delivered between 7 September to 2 October 2020. The total time commitment for participants was 12 hours over 4 weeks. ead the short description of contents and how the course can be run in the [FAIR-101-v2](./fair-101-v2.md).
 
 #### FAIR Data 101
-The first version of this online course was delivered between 11 May to 26 June 2020. The total time commitment for participants was 16 hours over 8 weeks. A short description of the contents and how the course was run is detailed [here](./fair-101-v1.md). 
+The first version of this online course was delivered between 11 May to 26 June 2020. The total time commitment for participants was 16 hours over 8 weeks.ead the short description of contents and how the course can be run in the [FAIR-101-v1](./fair-101-v1.md). 
 
 ## Learning objectives
 * Discuss the concept of FAIR data and its application in research
