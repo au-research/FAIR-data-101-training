@@ -2,6 +2,9 @@
 title: Reusable activities
 permalink: /reusable/activities
 ---
+## Overview
+
+Feel free to choose one or more of the activities below to pursue. 
 
 ## Read
 Time estimate: 20 minutes
@@ -33,9 +36,7 @@ Scenario: You’ve been entrusted with providing guidance to your institution in
 First, read this page on data citation: [https://ardc.edu.au/resources/working-with-data/citation-identifiers/data-citation/](https://ardc.edu.au/resources/working-with-data/citation-identifiers/data-citation/)
 
 Then, choose from the following list of services and select examples of data citations for either a dataset, 
-a collection, research software, protocol or workflow, even training examples! Share your data citation in the slack 
-#general channel explaining why you chose it. Feel free to share more than one. You may wish to start a thread on data citation 
-for particular research areas.
+a collection, research software, protocol or workflow, even training examples! 
 
 * [Research Data Australia](https://researchdata.ands.org.au/)
 * [Zenodo](https://zenodo.org/)
