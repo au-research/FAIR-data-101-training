@@ -38,6 +38,9 @@ The Slack workspace was used again; and was kept open for a further two weeks af
 
 Each module should take around 3 hours to complete. Total of 12 hours spread in 4 weeks.
 
+All individuals part-taking in this course are encourage to follow the [ARDC's Course Code of Conduct](https://tiny.cc/code-conduct), inspired
+by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+
 ## Credits
 
 * [Liz Stokes](https://orcid.org/0000-0002-2973-5647)
