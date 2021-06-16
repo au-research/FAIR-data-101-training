@@ -38,7 +38,7 @@ Work through these [activities](activities.md) to build your understanding of Fi
 
 ## Discussion starters
 
-Use these questions to start a conversation on our Slack workspace, or with your colleagues over a cup of beverage.
+Use these questions to start a conversation with your colleagues over a cup of beverage.
 
 **Introduction to community discussions**
 * What are your expectations for this course? 
