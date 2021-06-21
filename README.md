@@ -9,7 +9,7 @@ FAIR stands for **F**indable, **A**ccessible, **I**nteroperable and **R**eusable
 Making research data more FAIR provides a range of benefits to the wider research community by enabling future researchers to publish, share, cite and reuse research data. The [FAIR Principles](https://doi.org/10.1038/sdata.2016.18) put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. Also note the FAIR Principles are aspirational and generic. 
 
 ## FAIR Data 101 Self-guided
-The third version of this online course stands as a self-guided material. The total time commitment for participants is minimum 6 hours (only activities and quizzes) and optional 12 extra hours (to watch presentation and Q&A discussions) . Read the short description of contents and how the course can be run in the [FAIR-101-v3](./fair-101-v3.md).
+The third version of this online course stands as a self-guided material. The total time commitment for participants is minimum 6 hours, only activities and quizzes, and optional 12 extra hours to watch presentation and Q&A discussions. Read the short description of contents and how the course can be run in the [FAIR-101-v3](./fair-101-v3.md).
 
 ### Past versions 
 
