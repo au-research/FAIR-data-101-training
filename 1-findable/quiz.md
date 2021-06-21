@@ -3,8 +3,6 @@ title: Findable quiz
 permalink: /findable/quiz
 ---
 
-## Findable Quiz
-
 This file includes the quiz questions and correct answers, and is optimised for a multiple choice or multiple checkbox question format. You can use this file to migrate the questions and answers into a quiz platform of your own choosing.
 
 ### 1. Which one of these is *not* a core aspect of FAIR?
@@ -23,7 +21,8 @@ This file includes the quiz questions and correct answers, and is optimised for 
 - [ ] To make sensitive data openly accessible
 - [ ] To force researchers to share research data
 
-### 3. In which discipline-focussed data repository can you find the data for Andrei Korostelev et al. (2007) Interactions and dynamics of the Shine–Dalgarno helix in the 70S ribosome, Proceedings of the National Academy of Sciences, 104 (43) 16840-16843; DOI:[10.1073/pnas.0707850104](https://doi.org/10.1073/pnas.0707850104)?
+### 3. In which discipline-focussed data repository can you find the data for Andrei Korostelev et al. (2007)?
+Interactions and dynamics of the Shine–Dalgarno helix in the 70S ribosome, Proceedings of the National Academy of Sciences, 104 (43) 16840-16843; DOI:[10.1073/pnas.0707850104](https://doi.org/10.1073/pnas.0707850104)?
 
 - [ ] GenBank
 - [x] Protein Databank
@@ -45,6 +44,7 @@ This file includes the quiz questions and correct answers, and is optimised for 
 - [x] Unambiguously identify data and metadata
 - [x] Continue to operate for the foreseeable future
 - [ ] Take the form of hyperlinks
+
 
 ### For each of the components of the research lifecycle in questions 6-10, select the most appropriate persistent identifier (PID):
 
