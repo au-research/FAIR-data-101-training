@@ -3,10 +3,10 @@ title: FAIR Data 101 Selfguided
 permalink: /fair-101-v3
 ---
 
-Welcome to the Australian Research Data Commons' *FAIR Data 101* self-guided materialsv3!
+Welcome to the Australian Research Data Commons' *FAIR Data 101* self-guided materials v3!
 [DOI: XXX](https://doi.org/XXX)
 
-The course is aimed at individuals working with or expecting to work with data as researchers, publishers, librarians, or in research support, especially those seeking to develop their skills in managing FAIR data in practice and to understand the tools that can support them in doing this.
+The course is aimed at individuals working with or expecting to work with data e.g. researchers, publishers, librarians, or in research support, especially those seeking to develop their skills in managing FAIR data in practice and to understand the tools that can support them in doing this.
 
 ## Why FAIR?
 FAIR stands for **F**indable, **A**ccessible, **I**nteroperable and **R**eusable. 
