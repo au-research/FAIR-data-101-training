@@ -1,4 +1,7 @@
-## Accessible Quiz
+---
+title: Accessible quiz
+permalink: /accessible/quiz
+---
 
 This file includes the quiz questions and correct answers, and is optimised for a multiple choice or multiple checkbox question format. You can use this file to migrate the questions and answers into a quiz platform of your own choosing.
 
@@ -12,7 +15,7 @@ This file includes the quiz questions and correct answers, and is optimised for 
 
 ### 2.What does OAI-PMH stand for?
 
-- [x] Open Archives Initiative Protocol for Metadata Harvesting
+- [x] [Open Archives Initiative Protocol for Metadata Harvesting](https://www.openarchives.org/pmh/)
 
 ### 3. What kind of authentication system does the Trove API use?
 
