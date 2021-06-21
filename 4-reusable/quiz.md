@@ -1,4 +1,7 @@
-## Reusable quiz
+---
+title: Reusable quiz
+permalink: /reusable/quiz
+---
 
 This file includes the quiz questions and correct answers, and is optimised for a multiple choice or multiple checkbox question format. You can use this file to migrate the questions and answers into a quiz platform of your own choosing.
 
