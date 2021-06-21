@@ -16,7 +16,7 @@ Making research data more FAIR provides a range of benefits to the wider researc
 ## FAIR Data 101 Self-guided
 The third version of this online course stands as a self-guided material. The total time commitment for participants is minimum 6 hours (only activities and quizzes) and optional 12 extra hours to watch presentation and Q&A discussions. 
 
-## How to run this course
+## How to use this course materials?
 
 Participants are encouraged to go through the modules in the following order:
 - **F**indable: [Activities](https://au-research.github.io/FAIR-data-101-training/findable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/findable/quiz) 
