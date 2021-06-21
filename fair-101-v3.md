@@ -19,10 +19,10 @@ The third version of this online course stands as a self-guided material. The to
 ## How to run this course
 
 Participants are encouraged to go through the modules in the following order:
-- **F**indable: [Activities](https://au-research.github.io/FAIR-data-101-training/findable/activities), [Quizz] 
-- **A**ccessible: [Activities](https://au-research.github.io/FAIR-data-101-training/accessible/activities), [Quizz] 
-- **I**nteroperable: [Activities](https://au-research.github.io/FAIR-data-101-training/interoperable/activities), [Quizz]
-- **R**eusable: [Activities](https://au-research.github.io/FAIR-data-101-training/reusable/activities), [Quizz] 
+- **F**indable: [Activities](https://au-research.github.io/FAIR-data-101-training/findable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/findable/quiz) 
+- **A**ccessible: [Activities](https://au-research.github.io/FAIR-data-101-training/accessible/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/accesible/quiz)  
+- **I**nteroperable: [Activities](https://au-research.github.io/FAIR-data-101-training/interoperable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/interoperable/quiz) 
+- **R**eusable: [Activities](https://au-research.github.io/FAIR-data-101-training/reusable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/reusable/quiz) 
 
 We recommend doing all the activities per Guiding principle. However, feel free to skip those activities that you are already familiar with. The Quizzes will then help you evaluate your understanding of the topics. You are encouraged to discuss your understanding of those questions and answers with your colleagues. If you need more input to answer one or more questions we encourgae you to watch the corresponsing videos. 
 
