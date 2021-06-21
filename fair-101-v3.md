@@ -24,7 +24,11 @@ Participants are encouraged to go through the modules in the following order:
 - **I**nteroperable: [Activities](https://au-research.github.io/FAIR-data-101-training/interoperable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/interoperable/quiz) 
 - **R**eusable: [Activities](https://au-research.github.io/FAIR-data-101-training/reusable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/reusable/quiz) 
 
-We recommend doing all the activities per Guiding principle. However, feel free to skip those activities that you are already familiar with. The Quizzes will then help you evaluate your understanding of the topics. You are encouraged to discuss your understanding of those questions and answers with your colleagues. If you need more input to answer one or more questions we encourgae you to watch the corresponsing videos. 
+We recommend doing all the activities per Guiding principle. However, feel free to skip those activities that you are already familiar with. The Quizzes will then help you evaluate your understanding of the topics. You are encouraged to discuss your understanding of those questions and answers with your colleagues. If you need more input to answer one or more questions we encourgae you to watch the corresponsing videos. You can find the [video playlist on the ARDC YouTube channel](https://www.youtube.com/playlist?list=PLG25fMbdLRa7bf4FNTS_LHV7hHOyFvkc-) for exaplanatory videos of each principle. Invited speakers participated in the Q&A sessions and those videos are available online. 
+* [FAIR Data 101 Express: Findable Q&A](https://www.youtube.com/watch?v=6KAR4jJVK8I)
+* [FAIR Data 101 Express: Accessible Q&A](https://www.youtube.com/watch?v=0tR-K7DKD3Q)
+* [FAIR Data 101 Express: Interoperable Q&A](https://www.youtube.com/watch?v=ZeK9z-gLH5Y)
+* [FAIR Data 101 Express: Reusable Q&A](https://www.youtube.com/watch?v=55z2WcR1tgk)
 
 All individuals part-taking in this course are encourage to follow the [ARDC's Course Code of Conduct](https://tiny.cc/code-conduct), inspired
 by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
