@@ -34,7 +34,7 @@ Learning objectives:
         "Identify best practice examples of FAIR data management."
      )
 Contact:
-      c(org(email = "contact@ardc.edu.au")
+      c(org(email = "contact@ardc.edu.au"))
 Keywords: "FAIR, data, data management, research, Findable, Accessible, Interoperable, Reusable"
 Created:  12/04/2021
 Modified: 07/06/2021
