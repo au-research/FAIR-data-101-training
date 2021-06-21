@@ -3,11 +3,16 @@ title: Frequently Asked Questions
 permalink: /faqs
 ---
 
+Q&A webinars per week with an expert panel from ARDC staff and partner organisations:
+
+* [FAIR Data 101 Express: Findable Q&A](https://www.youtube.com/watch?v=6KAR4jJVK8I)
+* [FAIR Data 101 Express: Accessible Q&A](https://www.youtube.com/watch?v=0tR-K7DKD3Q)
+* [FAIR Data 101 Express: Interoperable Q&A](https://www.youtube.com/watch?v=ZeK9z-gLH5Y)
+* [FAIR Data 101 Express: Reusable Q&A](https://www.youtube.com/watch?v=55z2WcR1tgk)
+* 
 #### Questions we didn’t get to in the Live Q&A session
 
-This is a continually evolving document - we’ll update it as we progress through the course.
-
-### Findable - 9 September 2020
+### Findable 
 
 **How do you rank the Google datasets tool for Australian researchers to locate datasets?**
 
@@ -54,7 +59,7 @@ For a dataset that is still being actively used for the research a Handle may be
 
 Answer: Yes, changing what we value and how we encourage that cultural change is a long game. 
 
-### Accessible - 16 September 2020
+### Accessible 
 
 **Clearly the specifics (e.g. the Consent) aren't going to be unified if some mediation is involved. Is there any international move on the forms of access - others probably face the same questions.**
 
@@ -72,7 +77,7 @@ Answer: You could look at [AURIN](https://aurin.org.au/), which combines urban i
 
 Answer: Researchers can be reluctant to share data if there is no perceived immediate benefit. Often a salient benefit of preparing research data to share is that it’s easier for the researcher to find it and reuse it themselves in the future. Although many research funders and journal publishers now require a data availability statement, there may be specific reasons why some research disciplines do not encourage data sharing. It might be worth having a longer conversation about what your researchers’ needs are in relation to managing active data, and starting from there.
 
-### Interoperable - 23 September 2020
+### Interoperable 
 
 **(regarding linked data:) Would relational database be used to reflect relationships between objects?**
 
@@ -82,6 +87,6 @@ Answer: Linked data does not generally used relationship databases (such as SQL)
 
 Answer: The various data repository platforms all build in some elements of the FAIR principles, but still put some of the onus on the data depositor. For example, most data repositories let you add keywords to your metadata record, but they do not necessarily require you to add keywords from a vocabulary that follows FAIR principles. It would be up to you to do that.
 
-### Reusable - 30 September 2020
+### Reusable 
 
 (All questions were answered in the live Q&A session)
