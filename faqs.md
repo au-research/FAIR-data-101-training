@@ -1,15 +1,19 @@
 ---
-title: Frequently Asked Questions
+title: Extra Questions
 permalink: /faqs
 ---
 
-Q&A webinars per week with an expert panel from ARDC staff and partner organisations:
+The [Express version 2 of these materials](https://au-research.github.io/FAIR-data-101-training/fair-101-v2), presented a Q&A webinar for each of the Guiding principles.
 
 * [FAIR Data 101 Express: Findable Q&A](https://www.youtube.com/watch?v=6KAR4jJVK8I)
 * [FAIR Data 101 Express: Accessible Q&A](https://www.youtube.com/watch?v=0tR-K7DKD3Q)
 * [FAIR Data 101 Express: Interoperable Q&A](https://www.youtube.com/watch?v=ZeK9z-gLH5Y)
 * [FAIR Data 101 Express: Reusable Q&A](https://www.youtube.com/watch?v=55z2WcR1tgk)
-* 
+
+If there were not enough time to answer the questions during the webinar, you can find them here. 
+
+Please note that the Slack referenced in the webinars was only intended to be used among participants who registered for that version of the course. 
+
 #### Questions we didn’t get to in the Live Q&A session
 
 ### Findable 
@@ -89,4 +93,4 @@ Answer: The various data repository platforms all build in some elements of the 
 
 ### Reusable 
 
-(All questions were answered in the live Q&A session)
+(All questions were answered during the live Q&A session).
