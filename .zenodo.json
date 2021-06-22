@@ -71,11 +71,6 @@
             "scheme": "url", 
             "identifier": "https://github.com/au-research/FAIR-data-101-training/tree/v3.0", 
             "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.4414979", 
-            "relation": "isVersionOf"
         }
     ]
 }
