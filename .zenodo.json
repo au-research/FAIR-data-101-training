@@ -1,0 +1,81 @@
+{
+    "description": "<p>FAIR Data 101 v3.0 is a self-guided course covering the FAIR Data principles</p><p>The FAIR Data 101 virtual course was designed and delivered by the ARDC Skilled Workforce Program twice in 2020 and has now been reworked as a self-guided course.</p><p>The course structure was based on 'FAIR Data in the Scholarly Communications Lifecycle', run by Natasha Simons at the FORCE11 Scholarly Communications Institute. These training materials are hosted on GitHub.</p>", 
+    "license": "cc-by-4.0", 
+    "title": "FAIR Data 101", 
+    "version": "v3.0", 
+    "upload_type": "lesson",
+    "keywords": [ "training materials", "FAIR data", "video", "webinar", "activities", "quiz", "FAIR", "research data management" ],
+    "language": "eng",
+    "communities": [
+        {
+            "identifier": "ardc"
+        }
+    ],
+    "creators": [
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Natasha Simons",
+            "orcid": "https://orcid.org/0000-0003-0635-1998"
+        },
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Liz Stokes",
+            "orcid": "https://orcid.org/0000-0002-2973-5647"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Matthias Liffers",
+            "orcid": "https://orcid.org/0000-0002-3639-2080"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Nichola Burton",
+            "orcid": "https://orcid.org/0000-0003-4470-4846"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Andrew White"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Keith Russell",
+            "orcid": "https://orcid.org/0000-0001-5390-2719"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Asher Vennel"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Susannah Bacon"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Richard Ferrers",
+            "orcid": "https://orcid.org/0000-0002-2923-9889"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Tom Honeyman",
+            "orcid": "https://orcid.org/0000-0001-9448-4023"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Mingfang Wu",
+            "orcid": "https://orcid.org/0000-0003-1206-3431"
+        }
+    ], 
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/au-research/FAIR-data-101-training/tree/v3.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.4414979", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
