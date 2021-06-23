@@ -2,7 +2,6 @@
     "description": "<p>FAIR Data 101 v3.0 is a self-guided course covering the FAIR Data principles</p><p>The FAIR Data 101 virtual course was designed and delivered by the ARDC Skilled Workforce Program twice in 2020 and has now been reworked as a self-guided course.</p><p>The course structure was based on 'FAIR Data in the Scholarly Communications Lifecycle', run by Natasha Simons at the FORCE11 Scholarly Communications Institute. These training materials are hosted on GitHub.</p>", 
     "license": "cc-by-4.0", 
     "title": "FAIR Data 101", 
-    "version": "v3.0", 
     "upload_type": "lesson",
     "keywords": [ "training materials", "FAIR data", "video", "webinar", "activities", "quiz", "FAIR", "research data management" ],
     "language": "eng",
@@ -71,12 +70,5 @@
             "orcid": "https://orcid.org/0000-0002-8990-1985"
         }
     ], 
-    "access_right": "open",
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/au-research/FAIR-data-101-training/tree/v3.0", 
-            "relation": "isSupplementTo"
-        }
-    ]
+    "access_right": "open"
 }
