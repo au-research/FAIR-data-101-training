@@ -10,7 +10,7 @@ The [Express version 2 of these materials](https://au-research.github.io/FAIR-da
 * [FAIR Data 101 Express: Interoperable Q&A](https://www.youtube.com/watch?v=ZeK9z-gLH5Y)
 * [FAIR Data 101 Express: Reusable Q&A](https://www.youtube.com/watch?v=55z2WcR1tgk)
 
-If there were not enough time to answer the questions during the webinar, you can find them here. 
+If there were questions answered during the webinar, you can find them here. 
 
 Please note that the Slack referenced in the webinars was only intended to be used among participants who registered for that version of the course. 
 
