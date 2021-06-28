@@ -9,7 +9,7 @@ Welcome to the Australian Research Data Commons' *FAIR Data 101* express course 
 The course is aimed at individuals working with or expecting to work with data as researchers, publishers, librarians, or in research support, especially those seeking to develop their skills in managing FAIR data in practice and to understand the tools that can support them in doing this.
 
 ## Description
-The second version of this online course was delivered between 7 September to 2 October 2020.
+The second version of this online course was delivered between 7 September to 2 October 2020 and [advertised through ARDC channels](https://ardc.edu.au/events/fair-data-101-express/).
 Participant's time commitment per week is designed to be 3 hours a week during 4 weeks (a total of 12 hours).
 
 The course is divided into four one week modules, for each of the four foundational FAIR  principles:
