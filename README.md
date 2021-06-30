@@ -14,10 +14,10 @@ The third version of this online course stands as a self-guided material. The to
 ### Past versions 
 
 #### FAIR Data 101 Express
-The second version of this online course was delivered between 7 September to 2 October 2020. The total time commitment for participants was 12 hours over 4 weeks. Read the short description of contents and how the course can be run in the [FAIR-101-v2](./fair-101-v2.md).
+The second version of this online course was delivered between 7 September to 2 October 2020. The total time commitment for participants was 12 hours over 4 weeks. Read the short description of contents and how the course can be run in [FAIR-101-v2](./fair-101-v2.md).
 
 #### FAIR Data 101
-The first version of this online course was delivered between 11 May to 26 June 2020. The total time commitment for participants was 16 hours over 8 weeks. Read the short description of contents and how the course can be run in the [FAIR-101-v1](./fair-101-v1.md). 
+The first version of this online course was delivered between 11 May to 26 June 2020. The total time commitment for participants was 16 hours over 8 weeks. Read the short description of contents and how the course can be run in [FAIR-101-v1](./fair-101-v1.md). 
 
 ## Learning objectives
 * Discuss the concept of FAIR data and its application in research

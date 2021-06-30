@@ -62,4 +62,4 @@ by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders
 All content of the ARDC FAIR data 101 is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence. 
 
 ## How to cite this work
-Matthias Liffers, Liz Stokes, Nichola Burton, & Tran Le. (2021, January 4). au-research/FAIR-data-101-training v2.0 (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.4414980
+Stokes, Liz, Liffers, Matthias, Burton, Nichola, Simons, Natasha, Russell, Keith, Siobhann McCafferty, … Vennel, Asher. (2020, November). ARDC FAIR data 101 virtual course training materials (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.4414980
