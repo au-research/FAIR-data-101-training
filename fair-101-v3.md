@@ -56,7 +56,7 @@ by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders
 * [Steve McEachern](https://orcid.org/0000-0001-7848-4912)
 * [Melanie Barlow](https://orcid.org/0000-0002-3956-5784)
 * [Catherine Brady](https://orcid.org/0000-0002-7919-7592)
-* Rowan Brownlee
+* [Rowan Brownlee](https://orcid.org/0000-0002-1955-1262)
 * [Tom Honeyman](https://orcid.org/0000-0001-9448-4023)
 * [Maria del Mar Quiroga](https://orcid.org/0000-0002-8943-2808)
 
