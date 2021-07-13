@@ -1,4 +1,7 @@
-# Additional ARDC FAIR resources
+---
+  title: Additional ARDC FAIR resources
+  permalink: /additional-ARDC-FAIR-resources
+---
 
 | **Title** | **Type** |
 | :--- | :--- |
