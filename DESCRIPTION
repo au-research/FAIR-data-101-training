@@ -1,0 +1,44 @@
+Type: Lesson
+Title: ARDC FAIR data 101 
+Version: 3
+Authors@: 
+    c(person(given = "Liz",
+             family = "Stokes",
+             role = c("aut", "cre"),
+             comment = c(ORCID = "0000-0002-2973-5647")),
+      person(given = "Matthias",
+             family = "Liffers",
+             email =matthias.liffers@ardc.edu.au",
+             role = c("ctb", "aut"),
+             comment = c(ORCID = "0000-0002-3639-2080")),
+      person(given = "Nichola",
+             family = "Burton",
+             role = c("ctb", "aut"),
+             comment = c(ORCID = "0000-0003-4470-4846")),
+      person(given = "Paula Andrea",
+             family = "Martinez",
+             role = "ctb",
+             comment = c(ORCID = "0000-0002-8990-1985"))           
+      )
+Description: Self-guided materials to learn about the FAIR data principles. Reorganised from the ARDC FAIR101 v2.
+License: CCby4.0
+URL: https://github.com/au-research/FAIR-data-101-training, https://au-research.github.io/FAIR-data-101-training/
+Audience:
+    c("Researchers", "publishers", "librarians", "research support staff")
+Learning objectives:
+    c(
+        "Understand the motivation behind the FAIR principles",
+        "Remember that FAIR stands for Findable, Accessible, Interoperable and Reusable",
+        "Develop skills in managing FAIR data in practice",
+        "Understand the tools that can support FAIR data management",
+        "Identify best practice examples of FAIR data management."
+     )
+Contact:
+      c(org(email = "contact@ardc.edu.au"))
+Keywords: "FAIR, data, data management, research, Findable, Accessible, Interoperable, Reusable"
+Created:  12/04/2021
+Modified: 21/06/2021
+Published:  TBC
+Work status: "Work in progress, Active updates"
+Learning resource type: "Tutorial and videos"
+Partof: 10.5281/zenodo.4414980
