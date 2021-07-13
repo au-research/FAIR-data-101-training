@@ -4,7 +4,7 @@ permalink: /fair-101-v3
 ---
 
 Welcome to the Australian Research Data Commons' *FAIR Data 101* self-guided materials v3!
-[DOI: XXX](https://doi.org/XXX)
+[DOI: 10.5281/zenodo.5094034](https://doi.org/10.5281/zenodo.5094034)
 
 The course is aimed at individuals working with or expecting to work with data e.g. researchers, publishers, librarians, or in research support, especially those seeking to develop their skills in managing FAIR data in practice and to understand the tools that can support them in doing this.
 
