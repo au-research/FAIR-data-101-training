@@ -44,6 +44,9 @@ by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders
 * Understand the tools that can support FAIR data management
 * Identify best practice examples of FAIR data management.
 
+### Additional resources from ARDC about FAIR
+Please see the [resources list](https://au-research.github.io/FAIR-data-101-training/resources/additional).
+
 ### Credits
 * [Liz Stokes](https://orcid.org/0000-0002-2973-5647)
 * [Matthias Liffers](https://orcid.org/0000-0002-3639-2080)
