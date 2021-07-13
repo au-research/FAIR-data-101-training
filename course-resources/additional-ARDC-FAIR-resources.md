@@ -1,6 +1,6 @@
 ---
   title: Additional ARDC FAIR resources
-  permalink: /additional-ARDC-FAIR-resources
+  permalink: /resources/additional
 ---
 
 | **Title** | **Type** |
