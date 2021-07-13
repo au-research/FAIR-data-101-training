@@ -4,7 +4,7 @@ permalink: /
 ---
 
 Welcome to the Australian Research Data Commons' *FAIR Data 101* self-guided materials!
-[DOI: XXX](https://doi.org/XXX)
+[DOI: 10.5281/zenodo.5094034](https://doi.org/10.5281/zenodo.5094034)
 
 The course is aimed at individuals working with or expecting to work with data e.g. researchers, publishers, librarians, or in research support, especially those seeking to develop their skills in managing FAIR data in practice and to understand the tools that can support them in doing this.
 
@@ -71,4 +71,4 @@ All content of the ARDC FAIR data 101 is licensed under the [Creative Commons At
 <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
 
 ## How to cite this work
-Matthias Liffers, Liz Stokes, Nichola Burton & Paula Andrea Martinez (2021, June). ARDC FAIR Data 101 self-guided https://github.com/au-research/FAIR-data-101-training [DOI: XXX](https://doi.org/XXX)
+Matthias Liffers, Liz Stokes, Nichola Burton & Paula Andrea Martinez (2021, July). ARDC FAIR Data 101 self-guided https://github.com/au-research/FAIR-data-101-training [DOI: 10.5281/zenodo.5094034](https://doi.org/10.5281/zenodo.5094034)
