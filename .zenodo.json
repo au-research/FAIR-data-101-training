@@ -1,7 +1,7 @@
 {
     "description": "<p>FAIR Data 101 v3.0 is a self-guided course covering the FAIR Data principles</p><p>The FAIR Data 101 virtual course was designed and delivered by the ARDC Skilled Workforce Program twice in 2020 and has now been reworked as a self-guided course.</p><p>The course structure was based on 'FAIR Data in the Scholarly Communications Lifecycle', run by Natasha Simons at the FORCE11 Scholarly Communications Institute. These training materials are hosted on GitHub.</p>", 
     "license": "cc-by-4.0", 
-    "title": "FAIR Data 101", 
+    "title": "ARDC FAIR Data 101 self-guided", 
     "upload_type": "lesson",
     "keywords": [ "training materials", "FAIR data", "video", "webinar", "activities", "quiz", "FAIR", "research data management" ],
     "language": "eng",
@@ -13,61 +13,73 @@
     "creators": [
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Natasha Simons",
-            "orcid": "https://orcid.org/0000-0003-0635-1998"
-        },
-        {
-            "affiliation": "Australian Research Data Commons", 
-            "name": "Liz Stokes",
+            "name": "Stokes, Liz",
             "orcid": "https://orcid.org/0000-0002-2973-5647"
         }, 
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Matthias Liffers",
+            "name": "Liffers, Matthias",
             "orcid": "https://orcid.org/0000-0002-3639-2080"
         }, 
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Nichola Burton",
+            "name": "Burton, Nichola",
             "orcid": "https://orcid.org/0000-0003-4470-4846"
         }, 
+        {   
+            "affiliation": "Australian Research Data Commons",
+            "name": "Martinez, Paula A.",
+            "orcid": "https://orcid.org/0000-0002-8990-1985"
+        },
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Andrew White"
-        }, 
+            "name": "Simons, Natasha",
+            "orcid": "https://orcid.org/0000-0003-0635-1998"
+        },
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Keith Russell",
+            "name": "Russell, Keith",
             "orcid": "https://orcid.org/0000-0001-5390-2719"
         }, 
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Asher Vennel"
+            "name": "McCafferty, Siobhann",
+            "orcid": "https://orcid.org/0000-0002-2491-0995"
         }, 
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Susannah Bacon"
-        }, 
-        {
-            "affiliation": "Australian Research Data Commons", 
-            "name": "Richard Ferrers",
+            "name": "Ferrers, Richard",
             "orcid": "https://orcid.org/0000-0002-2923-9889"
         }, 
         {
-            "affiliation": "Australian Research Data Commons", 
-            "name": "Tom Honeyman",
-            "orcid": "https://orcid.org/0000-0001-9448-4023"
+            "affiliation": "Australian Data Archive", 
+            "name": "McEachern, Steve",
+            "orcid": "https://orcid.org/0000-0001-7848-4912"
         }, 
         {
             "affiliation": "Australian Research Data Commons", 
-            "name": "Mingfang Wu",
-            "orcid": "https://orcid.org/0000-0003-1206-3431"
-        },
+            "name": "Barlow, Melanie",
+            "orcid": "https://orcid.org/0000-0002-3956-5784"
+        }, 
         {
-            
-            "affiliation": "Australian Research Data Commons",
-            "name": "Martinez, Paula A.",
-            "orcid": "https://orcid.org/0000-0002-8990-1985"
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Brady, Catherine",
+            "orcid": "https://orcid.org/0000-0002-7919-7592"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Brownlee, Rowan",
+            "orcid": "https://orcid.org/0000-0002-1955-1262"
+        }, 
+        {
+            "affiliation": "Australian Research Data Commons", 
+            "name": "Honeyman, Tom",
+            "orcid": "https://orcid.org/0000-0001-9448-4023"
+        }, 
+        {
+            "affiliation": "The University of Melbourne", 
+            "name": "Quiroga, Maria del Mar",
+            "orcid": "https://orcid.org/0000-0002-8943-2808"
         }
     ], 
     "access_right": "open"
