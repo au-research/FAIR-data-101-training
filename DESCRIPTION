@@ -21,8 +21,9 @@ Authors@:
              comment = c(ORCID = "0000-0002-8990-1985"))           
       )
 Description: Self-guided materials to learn about the FAIR data principles. Reorganised from the ARDC FAIR101 v2.
+ID: https://doi.org/10.5281/zenodo.5094034
 License: CCby4.0
-URL: https://github.com/au-research/FAIR-data-101-training, https://au-research.github.io/FAIR-data-101-training/
+URL: https://doi.org/10.5281/zenodo.5094034, https://github.com/au-research/FAIR-data-101-training, https://au-research.github.io/FAIR-data-101-training/
 Audience:
     c("Researchers", "publishers", "librarians", "research support staff")
 Learning objectives:
@@ -38,7 +39,7 @@ Contact:
 Keywords: "FAIR, data, data management, research, Findable, Accessible, Interoperable, Reusable"
 Created:  12/04/2021
 Modified: 21/06/2021
-Published:  TBC
+Published: 12/07/2021
 Work status: "Work in progress, Active updates"
 Learning resource type: "Tutorial and videos"
 Partof: 10.5281/zenodo.4414980
