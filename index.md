@@ -19,10 +19,10 @@ The third version of FAIR Data 101 has been reworked as a self-guided course. Th
 ## How to use this course materials?
 
 Participants are encouraged to go through the modules in the following order:
-- **F**indable: [Activities](https://au-research.github.io/FAIR-data-101-training/findable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/findable/quiz) 
-- **A**ccessible: [Activities](https://au-research.github.io/FAIR-data-101-training/accessible/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/accesible/quiz)  
-- **I**nteroperable: [Activities](https://au-research.github.io/FAIR-data-101-training/interoperable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/interoperable/quiz) 
-- **R**eusable: [Activities](https://au-research.github.io/FAIR-data-101-training/reusable/activities), [Quizz](https://au-research.github.io/FAIR-data-101-training/reusable/quiz) 
+- **F**indable: [Activities](https://au-research.github.io/FAIR-data-101-training/findable/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/findable/quiz) 
+- **A**ccessible: [Activities](https://au-research.github.io/FAIR-data-101-training/accessible/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/accesible/quiz)  
+- **I**nteroperable: [Activities](https://au-research.github.io/FAIR-data-101-training/interoperable/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/interoperable/quiz) 
+- **R**eusable: [Activities](https://au-research.github.io/FAIR-data-101-training/reusable/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/reusable/quiz) 
 
 We recommend doing all the activities for each guiding principle. However, feel free to skip the activities that you are already familiar with. The Quizzes will then help you evaluate your understanding of the topics. You are encouraged to discuss your understanding of those questions and answers with your colleagues. If you need more input to answer one or more questions we encourage you to watch the corresponsing videos. You can find the [video playlist on the ARDC YouTube channel](https://www.youtube.com/playlist?list=PLG25fMbdLRa7bf4FNTS_LHV7hHOyFvkc-) for exaplanatory videos of each principle. Invited speakers participated in the Q&A sessions and those videos are available online.
 
