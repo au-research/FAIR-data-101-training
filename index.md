@@ -4,7 +4,6 @@ permalink: /
 ---
 
 Welcome to the Australian Research Data Commons' *FAIR Data 101* self-guided materials!
-[DOI: 10.5281/zenodo.5094034](https://doi.org/10.5281/zenodo.5094034)
 
 The course is aimed at individuals working with or expecting to work with data e.g. researchers, publishers, librarians, or in research support, especially those seeking to develop their skills in managing FAIR data in practice and to understand the tools that can support them in doing this.
 
@@ -20,7 +19,7 @@ The third version of FAIR Data 101 has been reworked as a self-guided course. Th
 
 Participants are encouraged to go through the modules in the following order:
 - **F**indable: [Activities](https://au-research.github.io/FAIR-data-101-training/findable/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/findable/quiz) 
-- **A**ccessible: [Activities](https://au-research.github.io/FAIR-data-101-training/accessible/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/accesible/quiz)  
+- **A**ccessible: [Activities](https://au-research.github.io/FAIR-data-101-training/accessible/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/accessible/quiz)  
 - **I**nteroperable: [Activities](https://au-research.github.io/FAIR-data-101-training/interoperable/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/interoperable/quiz) 
 - **R**eusable: [Activities](https://au-research.github.io/FAIR-data-101-training/reusable/activities), [Quiz](https://au-research.github.io/FAIR-data-101-training/reusable/quiz) 
 
